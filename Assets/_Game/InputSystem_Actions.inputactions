@@ -76,11 +76,11 @@
             ]
         },
         {
-            "name": "New action map1",
+            "name": "Camera",
             "id": "4766abad-02e3-4965-9b6f-d5ae8e474ad5",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "Switch",
                     "type": "Button",
                     "id": "e9ae8d77-d3d0-4a5a-89b6-0066c3bcd3a4",
                     "expectedControlType": "",
@@ -94,11 +94,11 @@
                 {
                     "name": "",
                     "id": "c40927c4-ebb8-412f-8124-04ed17822581",
-                    "path": "",
+                    "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Switch",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
